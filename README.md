@@ -31,5 +31,5 @@ This is my personal portfolio website built from scratch to showcase my journey,
 
 ---
 
-⭐ **If you like this project, consider giving it a star on GitHub!**
+⭐ **If you like this project, consider giving it a star on a GitHub!**
 
